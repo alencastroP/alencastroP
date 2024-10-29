@@ -26,7 +26,7 @@
     </p>
     <h2 class="section-title" style="display: flex;justify-content: center;
       flex-wrap: wrap; ">💻 Tech Stack</h2>
-    <div class="tech-stack" style="vertical-align: middle; border-radius: 4px; margin: 5px; width: 40px;">
+    <div class="tech-stack" style="display: flex; justify-content: center; flex-wrap: wrap">
       <p>
         <img style="width: 40px;" class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS" />
         <img style="width: 40px;" class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5">
@@ -41,7 +41,7 @@
       </p>
     </div>
     <h2 class="section-title">🌐 Socials</h2>
-    <div class="socials">
+    <div class="socials" style="display: flex; justify-content: center; flex-wrap: wrap">
       <p>
         <a href="https://instagram.com/alencastrp" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
