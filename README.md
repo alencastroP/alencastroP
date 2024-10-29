@@ -3,57 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-    h1, h2 {
-      color: #4B0082;
-    }
-    p {
-      margin-bottom: 1em;
-    }
-    a {
-      text-decoration: none;
-      margin-right: 10px;
-    }
-    hr {
-      border: 0;
-      height: 1px;
-      background: #ddd;
-      margin: 20px 0;
-    }
-    img {
-      vertical-align: middle;
-      border-radius: 4px;
-      margin-right: 8px;
-    }
-    .icon {
-      vertical-align: middle;
-      border-radius: 4px;
-      margin: 5px; /* Mudei o margin aqui para uma configuração única */
-      width: 40px;
-    }
-    .tech-stack, .socials {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap; 
-    }
-    .socials a {
-      margin: 5px; /* Corrigido a barra de comentário que estava errada */
-    }
-  </style>
 </head>
 <body>
 <div class="container">
@@ -75,8 +24,12 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=alencastroP&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats"><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </p>
-    <h2 class="section-title">💻 Tech Stack</h2>
-    <div class="tech-stack">
+    <h2 class="section-title" style="display: flex;justify-content: center;
+      flex-wrap: wrap; ">💻 Tech Stack</h2>
+    <div class="tech-stack" style="vertical-align: middle;
+      border-radius: 4px;
+      margin: 5px;
+      width: 40px;">
       <p>
         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS" />
         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5">
