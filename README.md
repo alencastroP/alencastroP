@@ -19,15 +19,15 @@
         <li>Design Systems: Creating and implementing reusable components</li>
     </ul>
     <h2 class="section-title">📊 GitHub Stats</h2>
-      <div class="socials" style="display: flex; justify-content: center; flex-wrap: wrap">
+      <div class="socials" style="display: inline_block; align="center"">
         <p>
           <img src="https://github-readme-stats.vercel.app/api?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: inline-block; margin-right: 10px; width:32%">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=alencastroP&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" style="display: inline-block; margin-right: 10px; width:32%">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; width:32%">
         </p>
       </div>
-    <h2 class="section-title" style="display: flex;justify-content: center; flex-wrap: wrap; ">💻 Tech Stack</h2>
-    <div class="tech-stack" style="display: flex; justify-content: center; flex-wrap: wrap">
+    <h2 class="section-title">💻 Tech Stack</h2>
+    <div class="tech-stack" style="display: inline_block; align="center"">
       <p>
         <img style="width: 40px;" class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS" />
         <img style="width: 40px;" class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5">
@@ -42,7 +42,7 @@
       </p>
     </div>
     <h2 class="section-title">🌐 Socials</h2>
-    <div class="socials" style="display: flex; justify-content: center; flex-wrap: wrap">
+    <div class="socials" style="display: inline_block; align="center"">
       <p>
         <a href="https://instagram.com/alencastrp" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
