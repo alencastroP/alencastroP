@@ -22,7 +22,6 @@
     <p>
       <br><img src="https://github-readme-stats.vercel.app/api?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"></br>
       <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=alencastroP&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats"></br>
-      <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></br>
     </p>
     <h2 class="section-title" style="display: flex;justify-content: center;
       flex-wrap: wrap; ">💻 Tech Stack</h2>
