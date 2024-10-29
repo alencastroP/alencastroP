@@ -26,10 +26,7 @@
     </p>
     <h2 class="section-title" style="display: flex;justify-content: center;
       flex-wrap: wrap; ">💻 Tech Stack</h2>
-    <div class="tech-stack" style="vertical-align: middle;
-      border-radius: 4px;
-      margin: 5px;
-      width: 40px;">
+    <div class="tech-stack" style="vertical-align: middle; border-radius: 4px; margin: 5px; width: 40px;">
       <p>
         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS" />
         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5">
