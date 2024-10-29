@@ -18,7 +18,7 @@
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
-    h2, h3 {
+    h1, h2 {
       color: #4B0082;
     }
     p {
@@ -42,7 +42,7 @@
     .icon {
       vertical-align: middle;
       border-radius: 4px;
-      margin-right: 8px;
+      margin: 5px; /* Mudei o margin aqui para uma configuração única */
       width: 40px;
     }
     .tech-stack, .socials {
@@ -50,11 +50,8 @@
       justify-content: center;
       flex-wrap: wrap; 
     }
-    .icon {
-      margin: 5px;
-    }
     .socials a {
-      margin: 5px;/
+      margin: 5px; /* Corrigido a barra de comentário que estava errada */
     }
   </style>
 </head>
