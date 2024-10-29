@@ -19,10 +19,11 @@
         <li>Design Systems: Creating and implementing reusable components</li>
     </ul>
     <h2 class="section-title">📊 GitHub Stats</h2>
-    <p>
-      <br><img src="https://github-readme-stats.vercel.app/api?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"></br>
-      <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></br>
-    </p>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: inline-block; margin-right: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alencastroP&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" style="display: inline-block; margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencastroP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block;">
+      </p>
     <h2 class="section-title" style="display: flex;justify-content: center;
       flex-wrap: wrap; ">💻 Tech Stack</h2>
     <div class="tech-stack" style="display: flex; justify-content: center; flex-wrap: wrap">
