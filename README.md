@@ -11,7 +11,7 @@
     <h2 class="section-title">🎓 Aspiring Front-End Developer</h2>
     <p>I’m completing my degree in Systems Analysis and Development, and have solid experience in JavaScript, TypeScript, React, HTML, and CSS. I'm always looking to learn new techniques and technologies to refine my code and enhance the user experience.</p>
     <h2 class="section-title">💼 Premium Technical Support Experience</h2>
-    <p>I worked as a premium support analyst for 3 years, developing essential communication and problem-solving skills. This role also gave me the opportunity to apply and improve my programming skills, along with gaining familiarity with APIs, CRM, and business logic.</p>
+    <p>I worked as a premium support analyst for 3 years, developing essential communication and problem-solving skills. This role also gave me the opportunity to apply and improve my knowledge in HTML, CSS, JavaScript and React along with gaining familiarity with APIs, CRM, and business logic.</p>
     <h2 class="section-title">📚 What I’m Currently Studying</h2>
     <ul>
         <li>Advanced React: Advanced Hooks, Context API, and animations</li>
